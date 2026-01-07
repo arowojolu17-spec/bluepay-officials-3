@@ -121,7 +121,7 @@ const BuyBPCPayment = () => {
               variant="default"
               size="sm"
               className="bg-blue-600 hover:bg-blue-700 flex items-center gap-1"
-              onClick={() => handleCopy("7079124311", "Account Number")}
+              onClick={() => handleCopy("8110221728", "Account Number")}
             >
               <Copy size={14} />
               Copy
